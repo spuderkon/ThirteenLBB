@@ -30,3 +30,8 @@ switch (choice)
     default:
         break;
 }
+
+int addition(int a, int b)
+{
+    return a + b;
+}
