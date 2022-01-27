@@ -31,7 +31,6 @@ switch (choice)
         break;
 }
 
-
 int addition(int a, int b)
 {
     return a + b;
