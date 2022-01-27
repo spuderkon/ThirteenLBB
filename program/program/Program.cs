@@ -30,3 +30,8 @@ switch (choice)
     default:
         break;
 }
+
+int multipication (int a, int b)
+{
+    return a * b;
+}

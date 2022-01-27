@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Spude\\LBB\\rep\\program\\program\\program.csproj": {}
+    "C:\\Users\\Spude\\SecLBD\\SecLBB\\ThirteenLBB\\program\\program\\program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Spude\\LBB\\rep\\program\\program\\program.csproj": {
+    "C:\\Users\\Spude\\SecLBD\\SecLBB\\ThirteenLBB\\program\\program\\program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Spude\\LBB\\rep\\program\\program\\program.csproj",
+        "projectUniqueName": "C:\\Users\\Spude\\SecLBD\\SecLBB\\ThirteenLBB\\program\\program\\program.csproj",
         "projectName": "program",
-        "projectPath": "C:\\Users\\Spude\\LBB\\rep\\program\\program\\program.csproj",
+        "projectPath": "C:\\Users\\Spude\\SecLBD\\SecLBB\\ThirteenLBB\\program\\program\\program.csproj",
         "packagesPath": "C:\\Users\\Spude\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Spude\\LBB\\rep\\program\\program\\obj\\",
+        "outputPath": "C:\\Users\\Spude\\SecLBD\\SecLBB\\ThirteenLBB\\program\\program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Spude\\AppData\\Roaming\\NuGet\\NuGet.Config",
